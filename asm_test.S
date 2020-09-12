@@ -3,8 +3,14 @@
 .global addnumbers
 .type addnumbers @function
 
+equlal:
+	MOV X0, #0x40
+	RET
+
 addnumbers:
 	ADD W0, W0, W1
+	ADDS W2, W0, #111
+	B.EQ equlal
 	RET
 
 .global subnumbers
