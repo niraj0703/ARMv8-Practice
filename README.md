@@ -1,10 +1,9 @@
 # ARMv8-Practice
-Organization | Embedded CPU architectures
+|Organization | Embedded CPU architectures|
 -------------|---------------------------
-
-ARM | ARM architecture (32-bit) ARM64 (64/32-bit)
-Atmel| AVR architecture
-Microchip| PIC architecture
+|ARM | ARM architecture (32-bit) ARM64 (64/32-bit)|
+|Atmel| AVR architecture|
+|Microchip| PIC architecture|
 Texas Instruments| MSP430 architecture
 Intel| 8051 architecture
 Zilog| Z80 architecture
