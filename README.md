@@ -18,67 +18,35 @@ Inmos| Transputer architectures
 |Microcomputer CPU architectures|
 |-------------------------------|
 |   Pre-x86|
-|x86 Intel's IA-32 architecture, also called x86-32x86-64 with AMD's AMD64 and \n Intel's Intel 64 version of it|
-|Motorola 6800 and 68000 architectures |
-|MOS Technology 6502 architecture |
+|x86 Intel's IA-32 architecture, also called x86-32x86-64 with AMD's AMD64 and /\n Intel's Intel 64 version of it|
+|Motorola's 6800 and 68000 architectures |
+|MOS Technology's 6502 architecture |
 |Zilog  Z80 architecture|
 | Power Architecture (formerly POWER and PowerPC)|
 |ARM's ARM (32-bit) (previously Advanced RISC Machines originally Acorn RISC Machine) and StrongARM \/XScale architecturesARM64 (64/32-bit)|
 |Renesas: RX CPU architecture - Combination of RISC and CISC architectures |
 
 Workstation/Server CPU architectures
+| organization | Architecture |
+|--------------|--------------|
+|DEC | Alpha architecture
+|HP | PA-RISC architecture|
+|Power Architecture| (formerly POWER and PowerPC )|
+|Intel| Itanium architecture (formerly IA-64) |
+|MIPS Computer Systems Inc.| MIPS architecture|
+|Oracle (formerly Sun Microsystems )| SPARC Architecture|
 
-    DEC
+|Mini/Mainframe CPU architectures|
+|--------------------------------|
+|Burroughs large systems architecture (1961–present) currently supported in the Unisys ClearPath/MCP series.|
+|IBM |  System/360 \n System/370 ESA/390 and z/Architecture (1964–present)|
+|DEC | PDP-8 architecture, the successor PDP-11 architecture, and its final form, the VAX architecture UNIVAC 1100/2200 series architecture (currently supported by Unisys ClearPath IX computers)|
+|MIL-STD-1750A| - the U.S. military standard computer|
+|AP-101 |the space shuttlecomputer|
 
-| Alpha architecture
-HP
-| PA-RISC architecture
-Power Architecture
-(formerly POWER
-and PowerPC
-)
-Intel
-| Itanium architecture (formerly IA-64)
-MIPS Computer Systems Inc.
-| MIPS architecture
-Oracle
-| (formerly Sun Microsystems
-|) SPARC
+|Mixed-core CPU architectures|
+|----------------------------|
 
-    architecture
-
-Mini/Mainframe CPU architectures
-
-    Burroughs large systems
- architecture (1961–present) currently supported in the Unisys
-ClearPath/MCP series.
-IBM
-| System/360
-, System/370
-, ESA/390
-and z/Architecture
-(1964–present)
-DEC
-| PDP-8 architecture, the successor PDP-11 architecture
-, and its final form, the VAX architecture
-UNIVAC 1100/2200 series architecture (currently supported by Unisys
-ClearPath IX computers)
-MIL-STD-1750A
-- the U.S.| military standard computer
-AP-101
-
-    - the space shuttle| computer
-
-Mixed-core CPU architectures
-
-    IBM
-
-| Cell architecture (a general purpose architecture that uses a POWER4 based core and 8 RISC based co-processors)
-CAS
-| Loongson
-3
-Parallax Propeller
-, a 160 MIPS multicore
-microcontroller
-with eight 32-bit RISC
-cores.
+|IBM's Cell architecture (a general purpose architecture that uses a POWER4 based core and 8 RISC based co-processors)|
+|CAS  Loongson 3|
+|Parallax Propeller, a 160 MIPS multicore microcontroller with eight 32-bit RISC cores.|
