@@ -6,16 +6,16 @@ This repository is created for understanding of practical usage of ARM
 |ARM | ARM architecture (32-bit) ARM64 (64/32-bit)|
 |Atmel| AVR architecture|
 |Microchip| PIC architecture|
-Texas Instruments| MSP430 architecture
-Intel| 8051 architecture
-Zilog| Z80 architecture
-Western Design Center| 65816 architecture
-Hitachi| SuperH architecture
-Axis Communication| ETRAX CRIS architecture
-Power Architecture(formerly PowerPC)
-EnSilica| eSi-RISC architecture
+|Texas Instruments| MSP430 architecture|
+|Intel| 8051 architecture|
+|Zilog| Z80 architecture|
+|Western Design Center| 65816 architecture|
+|Hitachi| SuperH architecture|
+|Axis Communication| ETRAX CRIS architecture|
+| |Power Architecture(formerly PowerPC)|
+|EnSilica| eSi-RISC architecture|
 Milkymist architecture
-Inmos| Transputer architectures
+|Inmos| Transputer architectures|
 
 |Microcomputer CPU architectures|
 |:-------------------------------|
@@ -29,7 +29,7 @@ Inmos| Transputer architectures
 |Renesas: RX CPU architecture - Combination of RISC and CISC architectures |
 
 Workstation/Server CPU architectures
-| organization | Architecture |
+| Organization | Architecture |
 |:--------------|:--------------:|
 |DEC | Alpha architecture
 |HP | PA-RISC architecture|
