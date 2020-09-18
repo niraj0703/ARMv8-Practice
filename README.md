@@ -1,5 +1,5 @@
 # ARMv8-Practice
-#CPU Architectures
+# CPU Architectures
 |Organization | Embedded CPU architectures|
 |:-------------|:---------------------------:|
 |ARM | ARM architecture (32-bit) ARM64 (64/32-bit)|
@@ -38,7 +38,7 @@ Workstation/Server CPU architectures
 |Oracle (formerly Sun Microsystems )| SPARC Architecture|
 
 |Mini/Mainframe CPU architectures|
-|:--------------------------------:|
+|:-------------------------------|
 |Burroughs large systems architecture (1961–present) currently supported in the Unisys ClearPath/MCP series.|
 |IBM's  System/360 \n System/370 ESA/390 and z/Architecture (1964–present)|
 |DEC's PDP-8 architecture, the successor PDP-11 architecture, and its final form, the VAX architecture UNIVAC 1100/2200 series architecture (currently supported by Unisys ClearPath IX computers)|
@@ -46,8 +46,7 @@ Workstation/Server CPU architectures
 |AP-101 the space shuttlecomputer|
 
 |Mixed-core CPU architectures|
-|:----------------------------|
-
+|:---------------------------|
 |IBM's Cell architecture (a general purpose architecture that uses a POWER4 based core and 8 RISC based co-processors)|
 |CAS  Loongson 3|
 |Parallax Propeller, a 160 MIPS multicore microcontroller with eight 32-bit RISC cores.|
