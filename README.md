@@ -19,13 +19,13 @@ Inmos| Transputer architectures
 |-------------------------------|
 |   Pre-x86|
 |x86 Intel| IA-32 architecture, also called x86-32x86-64 with 
-  \n AMD's AMD64 and \n Intel's Intel 64 version of it
+   AMD's AMD64 and \n Intel's Intel 64 version of it|
 |Motorola 6800 and 68000 architectures |
 |MOS Technology 6502 architecture
-|Zilog  Z80 architecture
+|Zilog  Z80 architecture|
 | Power Architecture (formerly POWER and PowerPC)|
-|ARM's ARM (32-bit) (previously Advanced RISC Machines \n
-originally Acorn RISC Machine) and StrongARM \n
+|ARM's ARM (32-bit) (previously Advanced RISC Machines 
+originally Acorn RISC Machine) and StrongARM 
 \/XScale architecturesARM64 \n
 (64/32-bit)|
 |Renesas: RX CPU architecture - Combination of RISC and CISC architectures |
