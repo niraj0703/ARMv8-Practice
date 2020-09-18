@@ -39,10 +39,10 @@ Workstation/Server CPU architectures
 |Mini/Mainframe CPU architectures|
 |--------------------------------|
 |Burroughs large systems architecture (1961–present) currently supported in the Unisys ClearPath/MCP series.|
-|IBM |  System/360 \n System/370 ESA/390 and z/Architecture (1964–present)|
-|DEC | PDP-8 architecture, the successor PDP-11 architecture, and its final form, the VAX architecture UNIVAC 1100/2200 series architecture (currently supported by Unisys ClearPath IX computers)|
-|MIL-STD-1750A| - the U.S. military standard computer|
-|AP-101 |the space shuttlecomputer|
+|IBM's  System/360 \n System/370 ESA/390 and z/Architecture (1964–present)|
+|DEC's PDP-8 architecture, the successor PDP-11 architecture, and its final form, the VAX architecture UNIVAC 1100/2200 series architecture (currently supported by Unisys ClearPath IX computers)|
+|MIL-STD-1750A  - the U.S. military standard computer|
+|AP-101 the space shuttlecomputer|
 
 |Mixed-core CPU architectures|
 |----------------------------|
