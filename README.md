@@ -18,7 +18,7 @@ Inmos| Transputer architectures
 |Microcomputer CPU architectures|
 |-------------------------------|
 |   Pre-x86|
-|x86 Intel| IA-32 architecture, also called x86-32x86-64 with 
+|x86 Intel's IA-32 architecture, also called x86-32x86-64 with 
    AMD's AMD64 and \n Intel's Intel 64 version of it|
 |Motorola 6800 and 68000 architectures |
 |MOS Technology 6502 architecture
