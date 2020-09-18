@@ -1,4 +1,5 @@
 # ARMv8-Practice
+this repository is created for understanding of practical usage of ARM
 # CPU Architectures
 |Organization | Embedded CPU architectures|
 |:-------------|:---------------------------:|
