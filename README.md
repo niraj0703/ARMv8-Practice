@@ -15,7 +15,8 @@ EnSilica| eSi-RISC architecture
 Milkymist architecture
 Inmos| Transputer architectures
 
-Microcomputer CPU architectures
+|Microcomputer CPU architectures|
+|-------------------------------|
 
  |   Pre-x86|
  |x86 Intel| IA-32 architecture, also called x86-32x86-64 with 
